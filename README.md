@@ -1,6 +1,9 @@
 # Tiểu luận Mạng cảm biến
+
 **Đề tài:** Voice control đèn LED RGB
+
 **Sinh viên thực hiện:** Trần Phúc Thịnh
+
 **MSSV:** N23DCCI069
 
 ## 1. Mô tả thư mục
