@@ -19,11 +19,13 @@
 ## 2. Hướng dẫn chạy và Demo hệ thống
 Do cơ chế bảo mật của Edge Impulse yêu cầu tài khoản đăng nhập để test Real-time, cách tốt nhất để đánh giá mô hình là xem Video Demo thực tế.
 👉 **Link Video Demo hệ thống:** (https://youtu.be/Z-HyyZnEpp0)
-Hoặc muốn test offline: Mở file index.html trong thư mục browser bằng trình duyệt web.
+
 **Nếu giảng viên muốn test trực tiếp trên hệ thống Edge Impulse:**
 1. Truy cập dự án Public tại: https://studio.edgeimpulse.com/public/1019119/live
 2. Bấm nút `Clone this project` ở góc phải để sao chép dự án về tài khoản cá nhân.
 3. Chuyển đến tab **Live classification**, kết nối Micro và đọc các từ khóa: `phúc thịnh`, `màu đỏ`, `màu xanh`, `màu trắng`, `noise`.
+
+Hoặc muốn test offline: Mở file index.html trong thư mục browser bằng trình duyệt web.
 
 ## 3. Các phụ thuộc (Dependencies)
 * Mô hình huấn luyện: 1D-CNN (Convolutional Neural Network).
